@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graphic Design
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedin.com/in/rizkyadiguna25
+- 📫 How to reach me linkedin.com/in/rizkyadiguna25 or from my email here it is adirhisky@gmail.com
 
 <!---
 rizkyaadi/rizkyaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
